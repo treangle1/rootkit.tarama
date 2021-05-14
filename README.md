@@ -1,0 +1,2 @@
+# rootkit.tarama
+Rootkit Taraması
